@@ -150,6 +150,7 @@ require('lazy').setup({
 
 -- [[ Setting options ]]
 
+vim.o.relativenumber = true
 -- Set highlight on search
 vim.o.hlsearch = false
 
